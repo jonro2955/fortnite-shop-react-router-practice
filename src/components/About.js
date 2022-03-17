@@ -4,10 +4,9 @@ function About() {
     <div className='container'>
       <h4 className='center'>About</h4>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto rerum,
-        omnis neque qui ullam delectus numquam quo quas aliquam dicta animi
-        nemo, sint, exercitationem assumenda fugiat? Soluta dolores eligendi
-        ratione.
+        This is a multi-page website built using ReactJS and the react-router-dom plugin
+        to practice the techniques involved in ReactJS routing. The site fetches
+        data from a fortnite content API and displays their details.
       </p>
     </div>
   );
