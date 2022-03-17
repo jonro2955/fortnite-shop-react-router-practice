@@ -5,12 +5,15 @@ function Navbar() {
   return (
     <nav className='nav-wrapper red darken-3'>
       <div className='container'>
-        <a className='brand-logo left' href='/'>
+        <a
+          className='brand-logo left'
+          href='/fortnite-shop-react-router-practice'
+        >
           Fortnite Mania
         </a>
         <ul className='right'>
           <li>
-            <Link to='/'>Shop</Link>
+            <Link to='/fortnite-shop-react-router-practice'>Shop</Link>
           </li>
           <li>
             <Link to='/about'>About</Link>

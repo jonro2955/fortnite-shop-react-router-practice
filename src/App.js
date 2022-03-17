@@ -12,7 +12,10 @@ class App extends Component {
         <Navbar />
         <Routes>
           <Route path='/about' element={<About />} />
-          <Route path='/' element={<Shop />} />
+          <Route
+            path='/fortnite-shop-react-router-practice/'
+            element={<Shop />}
+          />
           <Route path='/:itemID' element={<ItemDetail />} />
         </Routes>
       </BrowserRouter>
