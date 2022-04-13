@@ -7,13 +7,13 @@ function Navbar() {
       <div className='container'>
         <a
           className='brand-logo left'
-          href='/fortnite-shop-react-router-practice'
+          href='/'
         >
           Fortnite Mania
         </a>
         <ul className='right'>
           <li>
-            <Link to='/fortnite-shop-react-router-practice'>Shop</Link>
+            <Link to='/'>Shop</Link>
           </li>
           <li>
             <Link to='/about'>About</Link>
