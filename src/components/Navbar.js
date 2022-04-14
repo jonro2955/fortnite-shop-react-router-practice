@@ -5,12 +5,9 @@ function Navbar() {
   return (
     <nav className='nav-wrapper red darken-3'>
       <div className='container'>
-        <a
-          className='brand-logo left'
-          href='/'
-        >
+        <Link className='brand-logo left' to='/'>
           Fortnite Mania
-        </a>
+        </Link>
         <ul className='right'>
           <li>
             <Link to='/'>Shop</Link>
