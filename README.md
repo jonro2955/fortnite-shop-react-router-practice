@@ -1,11 +1,12 @@
 # Fortnite Shop - A react-router-dom practice
-A multi-page website built using ReactJS and the react-router-dom plugin to practice the techniques involved in ReactJS routing. The site fetches data from a  fortnite content API and displays their details. 
+
+This is a multi-page website built using ReactJS and the react-router-dom plugin to practice the techniques involved in ReactJS routing. The site fetches data from a  fortnite content API and displays their details. 
 
 <hr/>
 
 [Live Demo](https://jonro2955.github.io/fortnite-shop-react-router-practice/)
 
-### Focus  
+### Learning Objectives  
 - ReactJS
 - Routing ReactJS using NPM's react-router-dom package
 - Fetching JSON data from a web API
